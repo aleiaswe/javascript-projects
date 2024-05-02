@@ -28,6 +28,7 @@ if (crewStatus && computerStatus === 'green'){
 }
 
 console.log("launchReady = ", launchReady);
+//Given the values for fuelLevel, crewStatus and computerStatus, 'launchReady' should be false. 
 
 // if (launchReady) {
 //    console.log('10, 9, 8, 7, 6, 5, 4, 3, 2, 1...');

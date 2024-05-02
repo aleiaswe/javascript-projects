@@ -16,6 +16,8 @@ if (fuelLevel >= 20000) {
    console.log('WARNING: Insufficient fuel!');
    launchReady = false;
 }
+console.log(launchReady);
+// After running the program, 'launchReady' returned false, which is how the program should currently behave. 
 
 // if (crewStatus && computerStatus === 'green'){
 //    console.log('Crew & computer cleared.');
